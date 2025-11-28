@@ -15,7 +15,11 @@ Identify which city has the most restaurants and compare average ratings across 
 ### Task 3 : Price Range Distribution
 Examine how restaurants are spread across price ranges using charts and percentages to understand affordability and market segments.
 
-### Restaurant Data Analysis Level 2
+### Task 4 : Online Delivery
+Measure how many restaurants offer online delivery and compare their average ratings with those that do not, to see if delivery is linked with better or worse ratings.
+
+
+# Restaurant Data Analysis Level 2
 
 This level focuses on deeper, more advanced analysis of the restaurant dataset, moving beyond basic summaries to patterns, relationships, and structures
 
@@ -31,12 +35,27 @@ Uses longitude and latitude to map restaurant locations and identify spatial clu
 ### Task 4 : Restaurant Chains
 Detects restaurant chains in the data and compares their ratings and popularity, helping to evaluate how chains perform relative to others in the market.​
 
- 
+# Restaurant Data Analysis Level 3
+
+This level focuses on more advanced and deeper analysis, mainly about customer behavior, engagement, and service patterns in restaurants.
+
+### Task 1 : Restaurant Reviews
+Studies review text to find common positive and negative keywords and checks whether longer reviews are linked to higher or lower ratings, giving insight into customer opinions and sentiment depth.​
+
+### Task 2 : Votes Analysis
+Looks at which restaurants receive the most and fewest votes and examines whether more votes are associated with higher ratings, helping to understand popularity vs. perceived quality.​
+
+### Task 3 : Price Range vs. Services
+Tests if price range is related to offering online delivery and table booking, and whether higher-priced restaurants are more likely to provide these services, revealing how service levels vary across budget and premium segments.​
 
 
 
 
 
 
-### Task 4 : Online Delivery
-Measure how many restaurants offer online delivery and compare their average ratings with those that do not, to see if delivery is linked with better or worse ratings.
+
+
+
+
+
+
