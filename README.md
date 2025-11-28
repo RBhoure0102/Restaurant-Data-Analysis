@@ -1,6 +1,6 @@
 # Restaurant-Data-Analysis
 
-This project performs exploratory data analysis on a restaurant dataset to uncover trends in customer preferences, restaurant ratings, cuisine popularity, and geographic distribution. It includes data cleaning, preprocessing, and visualization steps to reveal insights such as factors affecting ratings and popular cuisine types. The analysis is implemented using Python libraries like pandas, numpy, matplotlib, and seaborn.
+This project performs exploratory data analysis on a restaurant dataset to uncover trends in customer preferences, cuisine popularity, restaurant ratings, price ranges, and geographic distribution. It involves data cleaning, preprocessing, and visualization to identify patterns such as top cuisines, high-performing cities, relationships between price and services, and factors associated with higher ratings. The analysis is implemented using Python libraries such as pandas, numpy, matplotlib, and seaborn.
 
 # Restaurant Data Analysis Level 1
 
