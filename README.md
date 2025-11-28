@@ -49,9 +49,11 @@ Looks at which restaurants receive the most and fewest votes and examines whethe
 Tests if price range is related to offering online delivery and table booking, and whether higher-priced restaurants are more likely to provide these services, revealing how service levels vary across budget and premium segments.​
 
 
+# Conclusion
 
+A restaurant dataset containing 9,551 rows and 21 columns, later cleaned to 9,542 records after handling missing values.
 
-
+The analysis across all three levels shows that North Indian, Chinese, and Fast Food are the most preferred cuisines, with many restaurants offering these in combination. Most restaurants are budget or mid-priced and are heavily concentrated in a few major cities. Ratings mainly fall between 3.0 and 4.0, and restaurants offering online delivery tend to receive higher ratings. Customer reviews are mostly positive but very short, and votes show only a weak link to rating. Service availability varies by price level—premium restaurants focus on table booking, while mid-range ones offer more online delivery. Overall, the data reveals clear trends in cuisine demand, customer behavior, and service patterns across different restaurant categories.
 
 
 
