@@ -5,7 +5,7 @@ Restaurant Data Analysis Level 1
 
 This Level focuses on basic exploratory data analysis of the restaurant dataset, helping to understand cuisines, locations, pricing, and services at a high level
 
-Task 1 Top Cuisines:
+Task 1 Top Cuisines
 Find the three most common cuisines and what percentage of restaurants serve them, to understand overall cuisine popularity.
 
 Task 2 City Analysis:
